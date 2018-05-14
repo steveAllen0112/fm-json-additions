@@ -55,6 +55,26 @@
  * =====================================
  */
 ```
+## JSON.ArraySlice ( array ; start ; numberOfValues )
+```
+/**
+ * 
+ * Sort an array
+ *
+ * @param {array} array a valid JSON array
+ * @param {integer} start item number to start at.  (1-based, NOT 0-based!)
+ * @param {integer} numberOfValues how many array items to return.
+ *
+ * @returns {array}
+ *
+ * @module fm-json-additions
+ * @see https://github.com/geistinteractive/fm-json-additions
+ * 
+ * @history  2017-05-13, steven.allen@rcconsulting.com, created
+ *
+ * ==============================
+ */
+```
 ## JSON.ArraySort ( array ; sortChildren )
 ```
 /**
